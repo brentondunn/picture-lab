@@ -18,5 +18,5 @@ Aman:
 
 video of collaboration: https://drive.google.com/file/d/1ogN_73vSp_2HV5o0uOo5FpaqMD86Wjfx/view?usp=sharing
 
-![](images/img1)
-![](images/img2)
+![](images/img1.png)
+![](images/img2.png)
