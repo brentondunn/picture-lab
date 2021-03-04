@@ -14,4 +14,4 @@ Aman:
 - grayscale
 - detect edges
 
-video : 
+video: https://drive.google.com/file/d/1ogN_73vSp_2HV5o0uOo5FpaqMD86Wjfx/view?usp=sharing
