@@ -1,7 +1,7 @@
 # Picture Lab
-=======================================================<br/>
-**|  formal presentation of project with wearing formal: https://drive.google.com/file/d/1DzoB0hl8Uis-KnyOCPBiHaC5KsiBv26Y/view?usp=sharing |**
-
+=====<br/>
+**formal presentation of project with wearing formal: https://drive.google.com/file/d/1DzoB0hl8Uis-KnyOCPBiHaC5KsiBv26Y/view?usp=sharing**<br/>
+=====
 
 Brenton Dunn / 218005 <br/>
 Aman Kumar / 218059
