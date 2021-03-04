@@ -1,6 +1,6 @@
 # Picture Lab
 
-formal presentation of project with formal: https://drive.google.com/file/d/1DzoB0hl8Uis-KnyOCPBiHaC5KsiBv26Y/view?usp=sharing
+**formal presentation of project with formal: https://drive.google.com/file/d/1DzoB0hl8Uis-KnyOCPBiHaC5KsiBv26Y/view?usp=sharing**
 
 Brenton Dunn / 218005 <br/>
 Aman Kumar / 218059
